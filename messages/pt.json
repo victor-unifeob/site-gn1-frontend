@@ -1,0 +1,1399 @@
+{
+  "Meta": {
+    "home": {
+      "title": "GN1",
+      "description": "Somos reconhecidos internacionalmente por oferecer soluções inovadoras para a evolução do conhecimento e progresso da produção editorial científica.",
+      "keywords": ""
+    },
+    "productsServices": {
+      "title": "GN1 - Produtos e serviços",
+      "description": "Junte-se à GN1 e conte com uma equipe dedicada ao seu lado, comprometida com o seu sucesso. Somos reconhecidos internacionalmente por oferecer soluções inovadoras para a evolução do conhecimento e progresso da produção editorial científica.",
+      "keywords": "GN1, produtos, serviços, gnpapers, gnpublish"
+    },
+    "services": {
+      "books": {
+        "title": "GN1 - Livros",
+        "description": "Transformamos seu manuscrito em um livro profissional e pronto para o mercado. Nossos serviços abrangem desde a revisão textual minuciosa, garantindo a clareza, gramática e coesão do conteúdo, até a diagramação cuidadosa, que organiza o texto e as imagens de forma esteticamente agradável e funcional.",
+        "keywords": "livros, manuscrito, revisão textual, diagramação, publicação, editorial, PDF, ePub, MOBI"
+      },
+      "layout": {
+        "title": "GN1 - Diagramação",
+        "description": "Nós produzimos a sua revista de capa a capa, com anúncios, paginação, sumários, índice remissivo e todo o tratamento necessário nas imagens e gráficos, bem como o fechamento dos arquivos para impressão conforme a gráfica de sua preferência, além de versões digitais como PDF, ePub e MOBI.",
+        "keywords": "diagramação, revista científica, layout, paginação, impressão, InDesign, identidade visual, Adobe"
+      },
+      "xmlConversion": {
+        "title": "GN1 - Conversão XML",
+        "description": "A GN1 é certificada pelo SciELO e PubMed Central (PMC), portanto, temos uma equipe treinada e especializada, realizando assim a preparação de arquivos em formato XML conforme as normas das bases indexadoras.",
+        "keywords": "XML, SciELO, PubMed Central, PMC, indexadores, metalinguagem, marcação XML, bases indexadoras"
+      },
+      "htmlConversion": {
+        "title": "GN1 - Conversão HTML",
+        "description": "A GN1 realiza o serviço de conversão e marcação na metodologia antiga do SciELO (metodologia HTML-SGML DTD) e ainda em uso por alguns indexadores, como o portal PePSIC.",
+        "keywords": "HTML, conversão HTML, PePSIC, SciELO, SGML DTD, marcação HTML, ORCID, indexadores"
+      },
+      "ebookConversion": {
+        "title": "GN1 - Conversão eBook, ePub e MOBI",
+        "description": "A GN1 oferece o serviço de produção de arquivos eBook, ePub e MOBI para seu periódico ou livro, permitindo maior facilidade aos leitores para acessar artigos em dispositivos móveis ou, ainda, em outros diversos aparelhos eletrônicos.",
+        "keywords": "eBook, ePub, MOBI, dispositivos móveis, e-readers, iPad, iPhone, Kobo, Kindle, IDPF"
+      },
+      "reviewTranslationStandardization": {
+        "title": "GN1 - Revisão, tradução e normalização",
+        "description": "A verificação e correção dos erros ortográficos e gramaticais de acordo com as regras dos idiomas adotados pelo periódico, é um processo em que realizamos a verificação das citações de tabelas, gráficos e imagens, para preservar sua coerência.",
+        "keywords": "revisão, tradução, normalização, ABNT, APA, Vancouver, Harvard, referências bibliográficas, português, inglês, espanhol"
+      },
+      "doiAttribution": {
+        "title": "GN1 - Atribuição de DOI",
+        "description": "A GN1 é filiada ao CrossRef com um prefixo próprio (10.5935) e está habilitada a atribuir o DOI (Digital Object Identifier), para artigos científicos de qualquer periódico ou livro.",
+        "keywords": "DOI, Digital Object Identifier, CrossRef, 10.5935, artigos científicos, identificador digital"
+      },
+      "plagiarismCheck": {
+        "title": "GN1 - Verificação de plágio",
+        "description": "Oferecemos pacotes de crédito para que as revistas acessem diretamente o sistema de consulta e proteção contra plágio.",
+        "keywords": "plágio, iThenticate, CrossCheck, verificação de plágio, originalidade, sistema antiplágio"
+      },
+      "digitization": {
+        "title": "GN1 - Digitalização de livros e revistas",
+        "description": "Uma equipe especializada e de rigorosos técnicos é responsável pelo processo de digitalizar os exemplares originais, com equipamentos especiais de alta resolução, resultando em um trabalho de altíssima qualidade e fidelidade aos originais.",
+        "keywords": "digitalização, livros, revistas, OCR, escaneamento, alta resolução, preservação digital, acervo digital"
+      }
+    },
+    "systems": {
+      "gnpapers": {
+        "title": "GN1 - GnPapers",
+        "description": "Simplifique o gerenciamento de sua revista através de um sistema de submissão online e gestão de artigos científicos. O GnPapers gerencia completamente o fluxo editorial de revistas científicas, fornecendo importantes informações à equipe editorial, para que possam tomar a decisão de aprovar ou recusar um artigo de forma transparente e assertiva.",
+        "keywords": ""
+      },
+      "gnpublish": {
+        "title": "GN1 - GnPublish",
+        "description": "Aprimore a presença online da sua revista científica com um site profissional. Para revistas científicas que buscam excelência e alcance global, o GnPublish é a solução completa. Nossa plataforma oferece todas as ferramentas necessárias para uma publicação digital profissional, garantindo maior visibilidade e impacto.",
+        "keywords": ""
+      }
+    },
+    "indexers": {
+      "ebooks": {
+        "title": "GN1 - Guias de indexação",
+        "description": "Todas as orientações e informações sobre o processo de aplicação para indexação de uma revista, você encontrará centralizadas em nossos dois eBooks de forma clara e simples.",
+        "keywords": ""
+      },
+      "mainDatabases": {
+        "title": "GN1 - Principais bases",
+        "description": "Experiência há mais de 17 anos em marcação XML para diversas bases indexadoras.",
+        "keywords": ""
+      }
+    },
+    "about": {
+      "ourHistory": {
+        "title": "GN1 - Nossa história",
+        "description": "Uma breve história no tempo, uma longa trajetória de sucesso.",
+        "keywords": ""
+      },
+      "missionVisionValues": {
+        "title": "GN1 - Missão, visão e valores",
+        "description": "A GN1 é uma empresa que constantemente cria soluções inovadoras para a evolução do conhecimento e progresso da produção científica, desde a pesquisa, passando pela construção dos artigos, divulgação desse conhecimento, até a indexação nos principais portais. Nós buscamos o reconhecimento internacional dos pesquisadores e profissionais vinculados à ciência em sua forma mais autêntica e fundamentada.",
+        "keywords": ""
+      },
+      "team": {
+        "title": "GN1 - Equipe",
+        "description": "Nos orgulhamos de ter uma equipe de especialistas altamente qualificados.",
+        "keywords": ""
+      },
+      "ourClients": {
+        "title": "GN1 - Nossos clientes",
+        "description": "24 anos de história contribuindo para evolução da ciência.",
+        "keywords": ""
+      },
+      "privacyPolicy": {
+        "title": "GN1 - Política de Privacidade",
+        "description": "Com base na legislação vigente (Leis nº 12.965/2014 e 13.709/2018) e nos melhores meios que possam garantir a segurança e os direitos fundamentais dos usuários dos nossos sistemas, aplicativos e visitantes do nosso website, a GN1 estabelece a presente Política de Privacidade com a finalidade de proteger as informações pessoais, intimidade, honra e imagem.",
+        "keywords": ""
+      },
+      "contact": {
+        "title": "GN1 - Contato",
+        "description": "Precisando de ajuda com sites, aplicativos ou sistemas? Preencha o formulário para abrir um ticket.",
+        "keywords": ""
+      }
+    },
+    "blog": {
+      "title": "GN1 - Blog",
+      "description": "Descubra as últimas tendências em tecnologia editorial e soluções para publicação científica.",
+      "keywords": "blog GN1, tecnologia editorial, publicação científica, soluções editoriais, XML, SciELO, PubMed, revistas científicas",
+      "archive": {
+        "title": "GN1 - Blog - Posts",
+        "description": "Explore todos os artigos e insights publicados no blog da GN1.",
+        "keywords": "arquivo blog GN1, todos os posts, artigos tecnologia editorial, histórico publicações"
+      },
+      "category": {
+        "title": "GN1 - Blog - {category}",
+        "description": "Explore todos os posts da categoria {category} no blog da GN1.",
+        "keywords": "categoria {category}, blog GN1, posts por categoria, tecnologia editorial"
+      }
+    }
+  },
+  "Header": {
+    "menus": {
+      "editorialSolutions": "Soluções Editoriais",
+      "indexers": "Indexadores",
+      "company": "A Empresa"
+    },
+    "subsections": {
+      "services": "Serviços",
+      "systems": "Sistemas",
+      "ebooksGuides": "eBooks - Guias de Indexação",
+      "mainBases": "Principais Bases"
+    },
+    "items": {
+      "books": "Livros",
+      "diagramming": "Diagramação",
+      "xmlConversion": "Conversão XML",
+      "htmlConversion": "Conversão HTML",
+      "ebookConversion": "Conversão eBook, ePub e MOBI",
+      "revision": "Revisão, tradução e normalização",
+      "doiAttribution": "Atribuição de DOI",
+      "plagiarismCheck": "Verificação de plágio",
+      "digitization": "Digitalização de livros e revistas",
+      "GnPapers": "GnPapers",
+      "GnPublish": "GnPublish",
+      "history": "Nossa história",
+      "clients": "Nossos clientes",
+      "team": "Equipe",
+      "mission": "Missão, visão e valores",
+      "privacy": "Política de privacidade",
+      "contact": "Contato"
+    },
+    "descriptions": {
+      "books": "Produção completa de livros",
+      "diagramming": "Layout e design profissional",
+      "xmlConversion": "Conversão para padrões XML",
+      "htmlConversion": "Publicação digital HTML",
+      "ebookConversion": "E-books para todas as plataformas",
+      "revision": "Revisão textual e ortográfica",
+      "doiAttribution": "Registro DOI para publicações",
+      "plagiarismCheck": "Verificação de originalidade",
+      "digitization": "Digitalização de documentos",
+      "GnPapers": "Sistema de submissão",
+      "GnPublish": "Sites para revistas científicas",
+      "ebooksGuides": "Guias e e-books sobre indexação",
+      "mainBases": "Principais bases indexadoras",
+      "history": "Nossa trajetória e evolução",
+      "mission": "Nossos valores",
+      "team": "Conheça nossa equipe",
+      "clients": "Nossos parceiros e clientes",
+      "privacy": "Como tratamos seus dados",
+      "contact": "Entre em contato conosco"
+    },
+    "auth": {
+      "account": "Conta",
+      "logIn": "Entrar",
+      "logInDescription": "Acesse sua conta",
+      "logInButton": "Entrar",
+      "signUp": "Cadastre-se",
+      "signUpDescription": "Crie sua conta",
+      "signUpButton": "Cadastre-se",
+      "myOrders": "Meus Pedidos",
+      "myAccount": "Minha Conta",
+      "signOut": "Sair",
+      "signOutDescription": "Encerrar sessão"
+    },
+    "languages": {
+      "select": "Idioma",
+      "en": "Inglês",
+      "es": "Espanhol",
+      "pt": "Português"
+    },
+    "mobile": {
+      "menu": "Menu",
+      "editorialSolutions": "Soluções Editoriais",
+      "indexers": "Indexadores",
+      "company": "A Empresa",
+      "news": "Notícias",
+      "help": "Ajuda"
+    }
+  },
+  "BannerCarousel": {
+    "title": "Somos especialistas em revistas científicas",
+    "description": "Criamos soluções inovadoras para a evolução do conhecimento e progresso da produção científica, desde a pesquisa, passando pela construção dos artigos, divulgação e indexação nos principais portais."
+  },
+  "Services": {
+    "editorial": {
+      "title": "Produção editorial",
+      "description": "Produção de alta qualidade, com serviços de editoração ponta a ponta, desde a revisão textual até a diagramação e publicação digital em diferentes formatos acessíveis ao leitor."
+    },
+    "systems": {
+      "title": "Sistemas",
+      "description": "Soluções desenvolvidas para auxiliar o gerenciamento de revistas e pensadas na melhor experiência dos editores-científicos, revisores e autores."
+    },
+    "indexers": {
+      "title": "Indexadores",
+      "description": "Temos ampla experiência na marcação XML para revistas científicas e entendemos a dinâmica de diversos portais indexadores: SciELO, PMC, MEDLINE, DOAJ, Redalyc e mais."
+    }
+  },
+  "StatsHighlight": {
+    "yearsExperience": "ANOS DE EXPERIÊNCIA",
+    "mainTitle": "Saiba mais sobre nossa",
+    "highlightText": "história de sucesso.",
+    "stats": {
+      "activeClients": "CLIENTES ATIVOS",
+      "xmlsProduced": "XMLs PRODUZIDOS POR ANO",
+      "journalSites": "SITES DE REVISTAS",
+      "doisAssigned": "DOIs ATRIBUÍDOS"
+    }
+  },
+  "Testimonials": {
+    "subtitle": "Depoimentos",
+    "title": "Clientes satisfeitos é o nosso objetivo.",
+    "readMore": "Ver mais",
+    "readLess": "Ver menos",
+    "testimonials": {
+      "clemax": {
+        "name": "Dr. Clemax Couto Sant'Anna",
+        "role": "Editor Científico da Residência Pediátrica",
+        "content": "Tenho grande satisfação em depor favoravelmente ao trabalho desenvolvido pela GN1, há mais de uma década utilizo os serviços da GN1 para editoração de revistas pediátricas das quais participei no Rio de Janeiro. A empresa se caracteriza pelo cuidado na revisão de textos, rapidez nos processos editoriais e pela busca de soluções simplificadas no site, visando facilitar a vida de autores e editores. Parabéns pelo trabalho desenvolvido pela GN1."
+      },
+      "antonio": {
+        "name": "Dr. Antonio José de Almeida Filho",
+        "role": "Editor da Anna Nery - Revista de Enfermagem",
+        "content": "Minha experiência com a GN1 se iniciou em 2013, quando a Escola Anna Nery Revista de Enfermagem adotou a Versão online para a Gestão do periódico. A necessidade de avançar rumo a internacionalização nos impõe desafios, os quais exigem a colaboração de profissionais especializados na Tecnologia da Informação e editoração. É, nesse sentido, que atesto a qualidade dos serviços que temos realizado junto a GN1. Espero que possamos manter a elevada qualidade dos nossos trabalhos."
+      },
+      "jose": {
+        "name": "Prof. Dr. José Eduardo Lutaif Dolci",
+        "role": "Presidente da ABORL-CCF (2011)",
+        "content": "Estamos mantendo uma relação de parceria com a GN1 há longo tempo, e ninguém consegue isto sem que haja dedicação, comprometimento e sobretudo eficiência no que se faz, e podem ter certeza, que isto tudo vocês tem para oferecer aos seus parceiros como nós da ABORL-CCF. Parabéns pelo trabalho de todos vocês, uma verdadeira equipe."
+      },
+      "domingo": {
+        "name": "Prof. Dr. Domingo M. Braile PhD",
+        "role": "EDITOR-IN-CHIEF (2003-2020) in memoriam - Brazilian Journal of Cardiovascular Surgery",
+        "content": "Amigos da GN1, agradeço a vossa permanente atenção. Progredimos juntos, em direção a um futuro brilhante, contando com a colaboração competente de todos os colaboradores da GN1. Nestes anos de convívio fraterno foi possível ver a GN1 desenvolver-se e profissionalizar-se, competindo em nível de igualdade com suas congêneres dos Países desenvolvidos. A Revista Brasileira de Cirurgia Cardiovascular mostra que o esforço desta plêiade de trabalhadores foi capaz de produzir os efeitos desejados, colocando-se entre as cinco melhores Revistas da Especialidade no contexto mundial. Finalmente meus parabéns para o Márcio Argachof que com sua visão criou uma empresa que orgulha o Brasil."
+      }
+    }
+  },
+  "Contact": {
+    "offices": {
+      "frisco": {
+        "city": "Frisco, TX, Estados Unidos",
+        "address": "6136 Frisco Square Boulevard, Suite 400",
+        "address2": "Frisco, Texas 75034"
+      },
+      "saoPaulo": {
+        "city": "São Paulo, SP, Brasil",
+        "address": "R. Flórida, 1703",
+        "address2": "Cj. 62 Edifício Gávea, Brooklin",
+        "address3": "CEP: 04561-001"
+      },
+      "saoJoao": {
+        "city": "São João da Boa Vista, SP, Brasil",
+        "address": "R. Padre Donizetti Tavares de Lima, 415",
+        "address2": "Vila Santa Adélia",
+        "address3": "CEP: 13870-337"
+      }
+    },
+    "form": {
+      "title": "Fale conosco",
+      "description": "Temos uma equipe preparada para entender suas necessidades e superar suas expectativas.",
+      "placeholders": {
+        "name": "Nome *",
+        "email": "Email *",
+        "subject": "Assunto",
+        "message": "Como podemos ajudá-lo?"
+      },
+      "subjects": {
+        "quote": "Solicitar orçamento",
+        "ombudsman": "Ouvidoria",
+        "privacy": "Política de privacidade"
+      },
+      "messages": {
+        "success": "Mensagem enviada com sucesso! Entraremos em contato em breve.",
+        "error": "Erro ao enviar mensagem. Tente novamente."
+      },
+      "sending": "Enviando...",
+      "submit": "Enviar"
+    }
+  },
+  "Footer": {
+    "description": "Criamos soluções inovadoras para a evolução do conhecimento e progresso da produção científica.",
+    "sections": {
+      "services": "Serviços",
+      "systems": "Sistemas",
+      "institutional": "Institucional",
+      "contact": "Fale conosco"
+    },
+    "navigation": {
+      "services": {
+        "books": "Livros",
+        "diagramming": "Diagramação",
+        "xmlConversion": "Conversão XML",
+        "htmlConversion": "Conversão HTML",
+        "ebookConversion": "Conversão eBook, ePub e MOBI",
+        "revision": "Revisão, tradução e normalização",
+        "doiAttribution": "Atribuição de DOI",
+        "plagiarismCheck": "Verificação de plágio",
+        "digitization": "Digitalização de livros e revistas"
+      },
+      "softwares": {
+        "GnPapers": "GnPapers",
+        "GnPublish": "GnPublish"
+      },
+      "institutional": {
+        "history": "Nossa história",
+        "clients": "Nossos clientes",
+        "team": "Equipe",
+        "mission": "Missão, visão e valores",
+        "privacy": "Política de privacidade"
+      },
+      "contact": {
+        "contact": "Contato",
+        "support": "Suporte",
+        "ombudsman": "Ouvidoria",
+        "hr": "Recursos humanos"
+      }
+    },
+    "copyright": "© {year} GN1 Tecnologia Ltda. Todos os direitos reservados."
+  },
+  "productsServices": {
+    "hero": {
+      "title": "Produtos e serviços"
+    },
+    "title": "Junte-se à GN1 e conte com uma equipe dedicada ao seu lado, comprometida com o seu sucesso.",
+    "menuItems": {
+      "all": "Todos",
+      "services": "Serviços",
+      "systems": "Sistemas",
+      "indexers": "Indexadores"
+    },
+    "accessButton": "Acessar",
+    "items": {
+      "books": {
+        "name": "Livros"
+      },
+      "diagramming": {
+        "name": "Diagramação",
+        "description": "Layout e design profissional"
+      },
+      "xmlConversion": {
+        "name": "Conversão XML",
+        "description": "Conversão para padrões XML"
+      },
+      "htmlConversion": {
+        "name": "Conversão HTML",
+        "description": "Publicação digital HTML"
+      },
+      "ebookConversion": {
+        "name": "Conversão eBook, ePub e MOBI",
+        "description": "E-books para todas as plataformas"
+      },
+      "revision": {
+        "name": "Revisão, tradução e normalização",
+        "description": "Revisão textual e ortográfica"
+      },
+      "doiAttribution": {
+        "name": "Atribuição de DOI",
+        "description": "Registro DOI para publicações"
+      },
+      "plagiarismCheck": {
+        "name": "Verificação de plágio",
+        "description": "Verificação de originalidade"
+      },
+      "digitization": {
+        "name": "Digitalização de livros e revistas",
+        "description": "Digitalização de documentos"
+      },
+      "gnpapers": {
+        "name": "GnPapers",
+        "description": "Sistema de gestão editorial"
+      },
+      "gnpublish": {
+        "name": "GnPublish",
+        "description": "Plataforma de publicação"
+      },
+      "ebooksGuides": {
+        "name": "eBooks - Guias de Indexação",
+        "description": "Guias e e-books sobre indexação"
+      },
+      "mainDatabases": {
+        "name": "Principais Bases",
+        "description": "Principais bases indexadoras"
+      }
+    },
+    "ctaVideo": {
+      "subtitle": "Saiba mais",
+      "title": "Conheça nossas soluções editoriais.",
+      "description": "Venha entender todo o catálogo de serviços da empresa e como a nossa experiência de mais de 2 décadas, irá auxiliar a sua revista ou livro a atingir os padrões mais elevados de qualidade.",
+      "features": {
+        "specializedTeam": "Equipe especializada",
+        "highQualityStandard": "Padrão de qualidade elevado",
+        "yearsExperience": "24 anos de experiência"
+      },
+      "contactButton": "Fale conosco"
+    }
+  },
+  "Steps": {
+    "subtitle": "Passo a passo",
+    "title": "Saiba como o serviço é realizado."
+  },
+  "ServicesPages": {
+    "Books": {
+      "title": "Livros",
+      "hero": {
+        "title": "Transformamos seu manuscrito em um livro profissional e pronto para o mercado."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "Nossos serviços abrangem desde a revisão textual minuciosa, garantindo a clareza, gramática e coesão do conteúdo, até a diagramação cuidadosa, que organiza o texto e as imagens de forma esteticamente agradável e funcional.",
+        "description2": "Vamos além, criando um layout e uma capa personalizados que refletem a essência da sua obra e atraem o leitor, assegurando que seu livro se destaque visualmente e transmita sua mensagem de forma impactante."
+      },
+      "formats": {
+        "title": "PDF, ePub & MOBI",
+        "description1": "Com um olhar atento aos detalhes e à qualidade, nossa equipe especializada garante que seu livro esteja preparado para os mais diversos formatos. Oferecemos a conversão do material para PDF web, PDF para impressão e para formatos digitais como ePub e MOBI, tornando sua obra acessível em leitores de e-book e dispositivos móveis.",
+        "description2": "Confiando na GN1, seu livro não só ganha vida com excelência editorial, mas também alcança um público mais amplo no universo digital, com a qualidade e o profissionalismo que a sua obra merece."
+      },
+      "steps": {}
+    },
+    "digitizationBooksJournals": {
+      "title": "Digitalização de livros e revistas",
+      "hero": {
+        "title": "Equipe especializada em digitalização de exemplares originais."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "Uma equipe especializada e de rigorosos técnicos é responsável pelo processo de digitalizar os exemplares originais, com equipamentos especiais de alta resolução, resultando em um trabalho de altíssima qualidade e fidelidade aos originais.",
+        "description2": "O processo de digitalização pode ser realizado com a desmontagem de fascículos em duplicata, ou sem a desmontagem em exemplares raros, com todo cuidado, zelo e precauções necessárias, preservando da melhor forma os exemplares únicos e de valor inestimável.",
+        "description3": "Após a digitalização é realizado o reconhecimento dos textos (OCR) através de softwares profissionais, em seguida, nossos revisores executam uma minuciosa, atenta e cuidadosa conferência de todos os textos que compõem o acervo trabalhado, garantindo a máxima fidelidade com o original impresso."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Testes de qualidade",
+            "description": "Técnicos especializados realizam diversos testes para encontrar o melhor e mais fiel resultado."
+          },
+          "step2": {
+            "title": "Escaneamento",
+            "description": "Através de equipamentos profissionais, nossos técnicos executam o processo de escaneamento dos exemplares, preservando suas características originais e estado de conservação."
+          },
+          "step3": {
+            "title": "OCR (Optical Character Recognition)",
+            "description": "Os fascículos em formato digital de imagem são transformados em documentos de texto com o processo de OCR."
+          },
+          "step4": {
+            "title": "Conferência",
+            "description": "É executada a etapa de conferência dos textos e caracteres em comparação com os originais impressos, zelando pela mais alta fidelidade."
+          },
+          "step5": {
+            "title": "Finalização",
+            "description": "Os acervos finalizados e transformados em PDF são enviados aos clientes em mídias personalizadas e com mecanismos de busca avançada."
+          }
+        }
+      }
+    },
+    "doiAttribution": {
+      "title": "Atribuição de DOI",
+      "hero": {
+        "title": "Atribuição de DOI para artigos científicos e livros."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "A GN1 é filiada ao CrossRef com um prefixo próprio (10.5935) e está habilitada a atribuir o DOI (Digital Object Identifier), para artigos científicos de qualquer periódico ou livro.",
+        "description2": "A vantagem que oferecemos é a rapidez na geração do DOI e, com isto, o periódico poderá publicar a versão em papel ou PDF já com o devido DOI de cada artigo/livro/capítulo de livro, aumentando as citações e visualizações. É uma ferramenta poderosa e reconhecida mundialmente.",
+        "description3": "Conheça nossos serviços de atribuição de DOI e fique tranquilo, pois uma equipe de profissionais irá atendê-lo com toda a velocidade e qualidade que sua publicação merece."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção do material",
+            "description": "Podemos receber o material em PDF já com a numeração DOI criada, aguardando somente a atribuição ou, ainda, a outra opção é a recepção da listagem de todos os artigos, livros ou capítulos de livros que precisam receber uma numeração DOI criada pela GN1 com o nosso prefixo (10.5935)."
+          },
+          "step2": {
+            "title": "Criação da numeração DOI",
+            "description": "A partir da listagem são criadas as numerações de DOI, que incluem o prefixo da GN1, seguido pelo ISSN do periódico/revista/livro, ano de publicação do material, sequência alfanumérica criada sequencialmente ou referente à identificação do artigo (pode incluir volume, número, código artigo e/ou página)."
+          },
+          "step3": {
+            "title": "Atribuição do DOI no CrossRef",
+            "description": "A partir da numeração DOI e demais metadados necessários, inserimos uma a uma cada informação necessário para atribuição e conexão com a URL viável para direcionamento do DOI."
+          },
+          "step4": {
+            "title": "Validação da atribuição",
+            "description": "Após a finalização da atribuição é realizada a verificação do envio e comprovação de que o DOI foi corretamente atribuído, através do controle de qualidade por meio de consulta individual de cada link DOI por artigo, livro ou capítulo de livro."
+          },
+          "step5": {
+            "title": "Informe ao cliente",
+            "description": "Ao validar a atribuição, prosseguimos informando ao cliente que o serviço foi concluído com sucesso e já está em vigência."
+          }
+        }
+      }
+    },
+    "ebookEpubMobiConversion": {
+      "title": "Conversão eBook, ePub e MOBI",
+      "hero": {
+        "title": "Facilite o acesso dos leitores aos artigos em dispositivos móveis."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "A GN1 oferece o serviço de produção de arquivos eBook, ePub e MOBI para seu periódico ou livro, permitindo maior facilidade aos leitores para acessar artigos em dispositivos móveis ou, ainda, em outros diversos aparelhos eletrônicos.",
+        "description2": "O ePub foi criado por um consórcio de empresas chamado IDPF - International Digital Publishing Forum, entre elas Sony, Adobe, Microsoft, além de grandes editoras norte- americanas e inglesas. Tem como um de seus princípios básicos a padronização e democratização de acesso aos eBooks com facilidade e em diversos aparelhos.",
+        "description3": "O ePub através dos e-readers disponíveis no mercado (iPad, iPhone, Kobo, Kindle, etc) possibilita o aumento do tamanho da fonte e o ajuste da dimensão das páginas de acordo com o dispositivo utilizado para leitura, adequando a visualização conforme às necessidades do usuário."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção do material",
+            "description": "Recebemos o arquivo em formato Word (.doc ou .docx) ou em PDF."
+          },
+          "step2": {
+            "title": "Criação de layout",
+            "description": "Caso seja preciso primeiro diagramar o material procedemos com todas as etapas da diagramação, como: criação do layout do livro ou artigo no padrão da revista, estruturação de capítulos, primeiras páginas, capa e contracapa, inserção do texto de acordo com o padrão aprovado, assim como inclusão de todo tipo de material gráfico (imagens, tabelas, gráficos, demais elementos visuais), entre outros processos."
+          },
+          "step3": {
+            "title": "Exportação no formato solicitado",
+            "description": "Exportação do InDesign para PDF ou outras versões, como: ePUB e MOBI. PDF: após a exportação o conteúdo pode ser compartilhado em vários meios digitais e lido em inúmeros aparelhos eletrônicos, existem plataformas específicas de publicação que tornam o PDF automaticamente dinâmico (com o 'flip' de páginas semelhante a um livro). ePUB e MOBI: após a exportação do material é necessário realizar uma série de ajustes na linguagem correta e que tornam o conteúdo mais dinâmico e adequado ao formato."
+          }
+        }
+      }
+    },
+    "htmlConversion": {
+      "title": "Conversão HTML",
+      "hero": {
+        "title": "Conversão e marcação HTML para publicação em indexadores."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "O HTML ou linguagem de marcação de hipertexto é uma linguagem de marcação mais antiga e que compõe grande parte das páginas no meio virtual. É um padrão mais simples, se comparada com a metalinguagem XML, porém, muito efetiva na estruturação de um website ou ainda na marcação das estruturas de cada elemento chave de um artigo.",
+        "description2": "A GN1 realiza o serviço de conversão e marcação na metodologia antiga do SciELO (metodologia HTML-SGML DTD) e ainda em uso por alguns indexadores, como o portal PePSIC. Mas principalmente, tal conversão e marcação é continuamente aplicada na sistemática de publicação de artigos nos sites de periódicos científicos. Um dos diferenciais do HTML da GN1 é a inserção do ícone de ORCID nos autores."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção dos arquivos",
+            "description": "Preferencialmente recebemos os arquivos em formato PDF ou InDesign; mas, caso não tenha essa opção, pode ser em formato Word (.doc ou .docx)."
+          },
+          "step2": {
+            "title": "Conversão HTML",
+            "description": "É feita a conversão do HTML de acordo com o padrão PePSIC (seguindo as normas do portal) ou se for para o site da revista seguimos o padrão específico do periódico. Sempre se atentando a estruturação correta de texto e todo o material gráfico."
+          },
+          "step3": {
+            "title": "Marcação HTML",
+            "description": "É onde marcamos front, body, back e referências, de acordo com a norma de cada revista (APA, VANCOUVER, ABNT ou OTHER)."
+          },
+          "step4": {
+            "title": "Verificação",
+            "description": "Controle de qualidade das marcações utilizando os programas e ferramentas indicados e adequação em lote do material."
+          },
+          "step5": {
+            "title": "Publicação dos artigos",
+            "description": "No PePSIC: envio e acompanhamento do material para analisar se está tudo correto, até a publicação final. No site da revista: envio do material para o responsável pelo periódico efetuar a publicação e auxílio na adequação da publicação dentro da gestão de cada revista."
+          }
+        }
+      }
+    },
+    "layout": {
+      "title": "Diagramação",
+      "hero": {
+        "title": "Criamos uma identidade visual única e preparamos a publicação para impressão e formatos digitais."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "A diagramação consiste no processo pelo qual a publicação toma sua forma visual escolhida pelos editores, seguindo as linhas fundamentais de planejamento gráfico, de acordo com os critérios pré-definidos para a área tema do periódico.",
+        "description2": "Todo o trabalho é realizado de forma artesanal, pois trata cada aspecto do periódico e artigos com precisão e minúcia, visando a identidade visual da publicação, distinguindo assim a mensagem específica de cada componente na mesma página e fascículo.",
+        "description3": "Nós produzimos a sua revista de capa a capa, com anúncios, paginação, sumários, índice remissivo e todo o tratamento necessário nas imagens e gráficos, bem como o fechamento dos arquivos para impressão conforme a gráfica de sua preferência, além de versões digitais como PDF, ePub e MOBI."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção dos arquivos",
+            "description": "Recebemos os artigos em formato Word e já preparamos o material para ser enviado ao Adobe InDesign."
+          },
+          "step2": {
+            "title": "Criação de layout",
+            "description": "Criamos o layout de acordo com o padrão da revista, em colaboração com o editor, definindo a distribuição da primeira página e o formato das demais (coluna única, dupla ou tripla), padrões de capa, contracapa, páginas ímpares, impressão e outros detalhes."
+          },
+          "step3": {
+            "title": "Primeira página do artigo",
+            "description": "Inserimos informações presentes na primeira página do artigo, como: seção, títulos, autores, afiliações, ORCID, DOI e entre outros."
+          },
+          "step4": {
+            "title": "Edição do corpo do artigo",
+            "description": "Realizamos a inserção do corpo do artigo realizando todos os ajustes necessários pertinentes ao estilo da revista: espaçamento, negrito, itálico, fontes diferentes em tópicos, sobrescrito/subscrito etc."
+          },
+          "step5": {
+            "title": "Inserção do material gráfico",
+            "description": "Colocamos todas as figuras, tabelas e gráficos de acordo com o padrão da revista, seguindo detalhadamente as suas características estruturais."
+          },
+          "step6": {
+            "title": "Exportação",
+            "description": "Artigo finalizado! É hora de realizar a exportação do conteúdo do InDesign para o PDF, com o máximo padrão de qualidade e resolução."
+          },
+          "step7": {
+            "title": "Envio da 1ª e 2ª prova",
+            "description": "Após exportar, selecionamos os arquivos finalizados em PDF e enviamos ao editor da revista para aprovação ou correção da 1ª e 2ª prova do material."
+          },
+          "step8": {
+            "title": "Critérios de exportação",
+            "description": "Quando o material é aprovado, enviamos a versão finalizada em PDF nas versões para publicação digital ou para impressão de acordo com os critérios da gráfica selecionada pelo cliente (verificar padrão contratado)."
+          }
+        }
+      }
+    },
+    "plagiarismCheck": {
+      "title": "Verificação de plágio (iThenticate)",
+      "hero": {
+        "title": "Tenha acesso a um sistema de consulta e proteção contra plágio."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "Baseado no iThenticate, é uma iniciativa do CrossRef para ajudar seus membros a participarem ativamente dos esforços para prevenir o plágio acadêmico e profissional.",
+        "description2": "Embora existam diversas ferramentas de rastreio de plágio disponíveis, elas não são adequadas para filtrar conteúdos acadêmicos, simplesmente porque não tiveram acesso aos textos completos relevantes para detectar corretamente.",
+        "description3": "O CrossCheck verifica e registra as alterações nos artigos, com isso cria e alimenta continuamente uma base de dados de literatura acadêmica em todas as áreas do conhecimento científico. O uso da ferramenta é de fácil compreensão, e pode ser usado diretamente pelos editores da revista, para isto a GN1 oferece pacotes de créditos, para que as revistas acessem diretamente este incrível sistema de consulta e proteção contra plágio."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Verificação por parágrafo",
+            "description": "Tenha resultados compreendidos por seções e a cada parágrafo para garantir a originalidade do trabalho."
+          },
+          "step2": {
+            "title": "Comparação",
+            "description": "Destaca as informações compatíveis com publicações já realizadas por outros pesquisadores, em um painel intuitivo e dinâmico."
+          },
+          "step3": {
+            "title": "Relatórios",
+            "description": "É possível filtrar no relatório partes que são potencialmente repetidas."
+          },
+          "step4": {
+            "title": "Identificação automática",
+            "description": "Identifica pontos críticos que apontam equivalência considerável com outras publicações."
+          }
+        }
+      }
+    },
+    "reviewTranslationStandardization": {
+      "title": "Revisão, tradução e normalização",
+      "hero": {
+        "title": "Revisão, tradução e normalização realizada por profissionais especializados."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "A verificação e correção dos erros ortográficos e gramaticais de acordo com as regras dos idiomas adotados pelo periódico, é um processo em que realizamos a verificação das citações de tabelas, gráficos e imagens, para preservar sua coerência.",
+        "description2": "A revisão ortográfica e gramatical no idioma português é feita por profissionais brasileiros especializados. Assim como as revisões ou traduções para inglês e espanhol, são realizadas por uma empresa parceira nos Estados Unidos, realizando este trabalho com extrema qualidade e em idioma nativo, portanto, de ótima aceitação perante os indexadores internacionais.",
+        "description3": "A normalização consiste na verificação dos artigos e se necessário, correção dos textos científicos e referências bibliográficas em consonância com as regras adotadas e aplicáveis pelo periódico, tais como ABNT, APA, VANCOUVER, HARVARD etc.",
+        "description4": "As normas são os padrões que permitem que em qualquer lugar do mundo e em qualquer suporte, seja físico ou digital, um texto possa ser facilmente identificado, como um livro, revista, artigo, tese e entre outros."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção do material",
+            "description": "Os artigos ou livro são recebidos no formato Word (.doc ou .docx) e é realizada toda a separação dos arquivos."
+          },
+          "step2": {
+            "title": "Revisão",
+            "description": "O material é enviado aos revisores conforme sua especialidade e idioma (português, inglês ou espanhol). Durante esse processo, todas as informações necessárias são corrigidas e traduzidas. Trata-se de um procedimento criterioso e analítico, no qual também se verifica a adequação das citações bibliográficas às normas do periódico ou livro."
+          },
+          "step3": {
+            "title": "Normalização",
+            "description": "Correção das referências e todos os ajustes para adequação do texto dentro da norma indicada."
+          },
+          "step4": {
+            "title": "Envio para aprovação",
+            "description": "Após realizar a revisão e/ou normalização o arquivo é enviado ao cliente/editor para validação e aprovação final do conteúdo verificado."
+          }
+        }
+      }
+    },
+    "xmlConversion": {
+      "title": "Conversão XML",
+      "hero": {
+        "title": "Somos certificados pelo Scielo e PubMed Central, para preparação de arquivos XML."
+      },
+      "about": {
+        "title": "Sobre",
+        "description1": "O XML é uma metalinguagem específica e muito utilizada em artigos científicos para definir padrões e formatos que compõem esse tipo de documento. Basicamente, determina como esse material será visualizado no meio digital ou como os dados serão distribuídos.",
+        "description2": "Sua principal vantagem é tornar mais acessível o compartilhamento de informações, consequentemente tornando seu artigo científico mais facilmente encontrado em pesquisas em diferentes meios virtuais.",
+        "description3": "A GN1 é certificada pelo SciELO desde 2007 e PubMed Central (PMC) desde 2011, portanto, temos uma equipe treinada e especializada, realizando assim a preparação de arquivos em formato XML conforme as normas das bases indexadoras.",
+        "description4": "Atualmente contamos com diversos periódicos aprovados e mantidos no SciELO, PMC, MEDLINE, Redalyc, DOAJ, Scopus, EBSCO, entre outros; sendo assim, nos sentimos à vontade em afirmar que sua revista estará nas mãos dos melhores especialistas no assunto."
+      },
+      "steps": {
+        "items": {
+          "step1": {
+            "title": "Recepção dos arquivos",
+            "description": "Recebemos o material em PDF por diversos meios: anexo por e-mail, WeTransfer, Google Drive, Dropbox e entre outros."
+          },
+          "step2": {
+            "title": "Organização",
+            "description": "Separação do material e estruturação das pastas para dar início ao processamento. Renomeação do PDF de acordo com a nomenclatura ISSN."
+          },
+          "step3": {
+            "title": "Marcação XML",
+            "description": "Marcação de cada elemento do texto com as tags XML específicas, inserida caso a caso e utilizando programas como InDesign, Word, Markup e mais. É um processo demorado e específico, visto que se trata de uma metalinguagem voltada para a publicação digital."
+          },
+          "step4": {
+            "title": "Envio à base indexadora ou ao cliente",
+            "description": "Após a finalização da marcação os artigos são enviados à base indexadora seguindo especificamente as regras de cada portal e/ou encaminhadas diretamente como anexo ao e-mail do cliente."
+          }
+        }
+      }
+    }
+  },
+  "Systems": {
+    "gnpapers": {
+      "hero": {
+        "title": "GnPapers"
+      },
+      "title": "Simplifique o gerenciamento de sua revista através de um sistema de submissão online e gestão de artigos científicos.",
+      "about": {
+        "description1": "O GnPapers gerencia completamente o fluxo editorial de revistas científicas, fornecendo importantes informações à equipe editorial, para que possam tomar a decisão de aprovar ou recusar um artigo de forma transparente e assertiva.",
+        "description2": "Desde a submissão dos artigos até a avaliação dos revisores, o sistema foi desenhado priorizando a simplicidade e a clareza, contendo instruções durante cada etapa."
+      },
+      "features": {
+        "subtitle": "Funcionalidades",
+        "title": "Recursos avançados para gestão editorial completa.",
+        "items": {
+          "documentProcess": {
+            "title": "Documente todo o trâmite",
+            "description": "Tenha registros completos de todo o trâmite de um artigo, permitindo auditoria de sua avaliação a qualquer momento."
+          },
+          "doubleBlind": {
+            "title": "Revisões em Duplo Cego",
+            "description": "Com a Revisão em Duplo Cego, os autores não sabem quem são os revisores e vice-versa."
+          },
+          "wordFiles": {
+            "title": "Submeta arquivos do Word",
+            "description": "O autor poderá preparar o conteúdo do artigo em formato Microsoft Word©. Ao submeter o arquivo, será automaticamente convertido para PDF."
+          },
+          "realTimeStats": {
+            "title": "Estatísticas em tempo real",
+            "description": "Monitore a produtividade da revista através de gráficos comparativos que ilustram o cumprimento dos prazos por processo e usuário."
+          },
+          "adHocReviewers": {
+            "title": "Convide revisores Ad hoc",
+            "description": "Indique revisores Ad hoc para avaliar o artigo por meio de convites via e-mail, permitindo facilmente a visualização do documento e preenchimento de formulários para revisão."
+          },
+          "multiLanguage": {
+            "title": "Multi-idiomas",
+            "description": "Trabalhe com autores do mundo inteiro. O sistema possui os idiomas: Português e Inglês."
+          }
+        }
+      },
+      "showcase": {
+        "title": "Transparência e controle do fluxo editorial.",
+        "subtitle": "Conheça o sistema",
+        "featureLabel": "Recurso em destaque",
+        "features": {
+          "versions": {
+            "title": "Versões",
+            "description": "Quando o editor devolve um artigo para correção, uma nova versão do artigo é criada, gerando um histórico e facilitando o trabalho de revisores e editores na conferência se as recomendações foram ou não aplicadas pelo autor."
+          },
+          "reports": {
+            "title": "Relatórios",
+            "description": "Informações estratégicas são cruciais para qualquer gestor, o GnPapers fornece diversos dados essenciais aos editores, permitindo a comparação entre diferentes períodos. Além disso, revistas indexadas no SciELO precisam apresentar relatórios periodicamente sobre a produtividade, todos os dados solicitados atualmente são fornecidos pelo sistema."
+          },
+          "deadlines": {
+            "title": "Controle de prazos",
+            "description": "Todos os processos possuem prazos definidos que mudam à medida que o artigo progride no fluxo. O editor poderá mudar os prazos pré-definidos ou poderá adotar excepcionalmente um prazo diferenciado para determinado usuário em um artigo. Monitore gráficos comparativos que ilustram o cumprimento de prazos por processos do sistema."
+          },
+          "customization": {
+            "title": "Personalização",
+            "description": "Personalize campos, formulários, mensagens de notificação e restrições (limite de palavras no resumo, quantidade de autores e entre outros)."
+          },
+          "notifications": {
+            "title": "Notificações",
+            "description": "Todos os trâmites do sistema geram e-mails de notificação ao responsável para prosseguimento. Assim, os envolvidos no artigo permanecem informados sobre os prazos e avanços de cada etapa."
+          },
+          "accessLevels": {
+            "title": "Níveis de acesso",
+            "description": "Cada artigo submetido pode ter um editor atribuído que será responsável por distribuir aos revisores e acompanhar o processo de avaliação por pares. O editor responsável pode ser um usuário com o nível de acesso de 'Editor' ou 'Editor Associado', com diferentes níveis de autonomia para tomada de decisões."
+          },
+          "suggestions": {
+            "title": "Sugestões e correções",
+            "description": "Permite que revisores e editores comentem em diferentes parágrafos do artigo, tornando o processo de correção muito mais rico e assertivo. O autor poderá responder a cada critério de revisão adotado, transmitindo maior transparência."
+          }
+        }
+      },
+      "authorFeatures": {
+        "subtitle": "Autores",
+        "title": "Proporcione maior facilidade aos autores.",
+        "items": {
+          "suggestions": {
+            "title": "Sugestões e correções",
+            "description": "Fácil visualização de pareceres de revisores e sugestões de correção por parágrafo."
+          },
+          "completeRecord": {
+            "title": "Registro completo",
+            "description": "Cadastro de filiações, contribuições, conflito de interesse, financiamento, número de aprovação de comitê de ética e número do registro do ensaio clínico."
+          },
+          "compliance": {
+            "title": "Conformidade",
+            "description": "Submissão de artigos em conformidade com os padrões do SciELO e PMC."
+          },
+          "orcid": {
+            "title": "ORCID",
+            "description": "Possibilidade de associar a conta do GnPapers ao ORCID."
+          },
+          "decs": {
+            "title": "DeCS",
+            "description": "Consulta em tempo real a base de descritores do DeCS."
+          },
+          "qualityStandard": {
+            "title": "Padrão de qualidade",
+            "description": "Validação automática das dimensões e resolução das imagens."
+          }
+        }
+      }
+    },
+    "gnpublish": {
+      "hero": {
+        "title": "GnPublish"
+      },
+      "title": "Aprimore a presença online da sua revista científica com um site profissional.",
+      "about": {
+        "description1": "Para revistas científicas que buscam excelência e alcance global, o GnPublish é a solução completa. Nossa plataforma oferece todas as ferramentas necessárias para uma publicação digital profissional, garantindo maior visibilidade e impacto.",
+        "description2": "Com uma estrutura robusta, moderna e segura, o GnPublish permite que editores científicos gerenciem o site de forma intuitiva e eficiente, assegurando compatibilidade total com os mais rigorosos padrões internacionais. Além da autonomia para a gestão de conteúdo, você conta com o diferencial de uma equipe dedicada a atualizações e um suporte técnico especializado, sempre pronto para atender suas necessidades."
+      },
+      "features": {
+        "subtitle": "Funcionalidades",
+        "title": "Recursos completos para publicação científica digital.",
+        "items": {
+          "multilingualSite": {
+            "title": "Site Multilíngue",
+            "description": "Suporte completo para português, inglês e espanhol, permitindo alcance internacional da sua revista."
+          },
+          "pdfDownload": {
+            "title": "Download de Artigos PDF",
+            "description": "Artigos disponíveis para download em PDF nos três idiomas, facilitando o acesso dos leitores."
+          },
+          "socialSharing": {
+            "title": "Compartilhamento",
+            "description": "Integração com redes sociais para compartilhamento via email, Facebook e X (Twitter)."
+          },
+          "advancedSearch": {
+            "title": "Busca Avançada",
+            "description": "Sistema de busca por títulos, autores, resumos, palavras-chave e conteúdo completo dos artigos."
+          },
+          "analytics": {
+            "title": "Métricas",
+            "description": "Estatísticas via Google Analytics, Altmetrics, Dimension e PlumX para acompanhamento de performance."
+          },
+          "openPeerReview": {
+            "title": "Pareceres",
+            "description": "Visualização de pareceres de avaliação por pares de cada artigo, caso a revista adote modalidade de parecer de acesso aberto."
+          }
+        }
+      },
+      "techSpecs": {
+        "subtitle": "Tecnologia",
+        "title": "Estrutura moderna e segura para sua revista científica.",
+        "description": "Desenvolvido com as melhores tecnologias para garantir performance, segurança e compatibilidade entre diferentes dispositivos.",
+        "features": {
+          "modernStructure": {
+            "title": "Estrutura Moderna",
+            "description": "Construído com PHP, Laravel e MySQL para máxima performance e segurança.",
+            "details": {
+              "php": "PHP",
+              "laravel": "Laravel",
+              "mysql": "MySQL"
+            }
+          },
+          "responsiveDesign": {
+            "title": "Design Responsivo",
+            "description": "Otimizado para visualização perfeita em qualquer dispositivo móvel ou desktop.",
+            "details": {
+              "mobile": "Celular",
+              "tablet": "Tablet",
+              "desktop": "Desktop"
+            }
+          },
+          "newsPodcasts": {
+            "title": "Notícias e Podcasts",
+            "description": "Canal para divulgação de novidades e conteúdos exclusivos aos visitantes.",
+            "details": {
+              "events": "Eventos",
+              "interviews": "Entrevistas",
+              "marketing": "Marketing"
+            }
+          },
+          "citationFiles": {
+            "title": "Arquivos de Citação",
+            "description": "Compatibilidade com Reference Manager, BibTeX e EndNote para facilitar citações.",
+            "details": {
+              "referenceManager": "Reference Manager",
+              "bibtex": "BibTeX",
+              "endnote": "EndNote"
+            }
+          },
+          "seoOptimized": {
+            "title": "SEO Otimizado",
+            "description": "Otimização para motores de busca, melhorando visibilidade e tráfego orgânico.",
+            "details": {
+              "google": "Google",
+              "bing": "Bing",
+              "metaTags": "Meta Tags"
+            }
+          },
+          "contentUpdates": {
+            "title": "Atualizações de Conteúdo",
+            "description": "Equipe dedicada para atualizações rápidas e publicação de novos artigos.",
+            "details": {
+              "dedicatedTeam": "Equipe dedicada",
+              "specialists": "Especialistas"
+            }
+          }
+        },
+        "bottomCta": "Tecnologia de ponta para máxima visibilidade científica."
+      },
+      "showcase": {
+        "subtitle": "Conheça a plataforma",
+        "title": "Gestão completa do seu site.",
+        "featureLabel": "Recurso em destaque",
+        "features": {
+          "postsManagement": {
+            "title": "Gestão de Publicações",
+            "description": "Crie e gerencie publicações de Notícias, Podcasts e Vídeos. Ideal para divulgação de eventos, entrevistas e entre outros."
+          },
+          "bannerManagement": {
+            "title": "Gestão de Banners",
+            "description": "Controle total sobre banners rotativos para marketing, patrocinadores e comunicados importantes. Defina datas e horários de exibição."
+          },
+          "analytics": {
+            "title": "Métricas",
+            "description": "Estatísticas detalhadas de visualizações, downloads e métricas de impacto dos artigos publicados."
+          },
+          "multilingual": {
+            "title": "Multilíngue",
+            "description": "Suporte para português, inglês e espanhol, permitindo alcance internacional da sua revista."
+          }
+        }
+      },
+      "templates": {
+        "subtitle": "Layout",
+        "title": "Templates exclusivos para revistas científicas.",
+        "description": "Conheça os templates modernos e responsivos do GnPublish, criados especificamente para elevar o nível da sua revista científica.",
+        "previewButton": "Visualizar",
+        "items": {
+          "bjcvs": {
+            "description": "Template elegante e responsivo para publicações científicas, otimizado para apresentação de artigos e conteúdo editorial com foco na experiência do leitor.",
+            "features": {
+              "health": "Saúde"
+            }
+          },
+          "jbcs": {
+            "description": "Template elegante e responsivo para publicações científicas, otimizado para apresentação de artigos e conteúdo editorial com foco na experiência do leitor.",
+            "features": {
+              "chemistry": "Química"
+            }
+          },
+          "quimicaNova": {
+            "description": "Template elegante e responsivo para publicações científicas, otimizado para apresentação de artigos e conteúdo editorial com foco na experiência do leitor.",
+            "features": {
+              "chemistry": "Química"
+            }
+          },
+          "rvq": {
+            "description": "Template elegante e responsivo para publicações científicas, otimizado para apresentação de artigos e conteúdo editorial com foco na experiência do leitor.",
+            "features": {
+              "chemistry": "Química"
+            }
+          },
+          "gga": {
+            "description": "Template elegante e responsivo para publicações científicas, otimizado para apresentação de artigos e conteúdo editorial com foco na experiência do leitor.",
+            "features": {
+              "health": "Saúde"
+            }
+          }
+        }
+      }
+    }
+  },
+  "Indexers": {
+    "indexingGuides": {
+      "hero": {
+        "title": "eBooks - Guias de indexação"
+      },
+      "title": "PubMed/MEDLINE",
+      "subtitle": "PubMed/MEDLINE",
+      "description": "Todas as orientações e informações sobre o processo de aplicação para indexação de uma revista, você encontrará centralizadas em nossos dois eBooks de forma clara e simples.",
+      "buyButton": "Comprar",
+      "ebooks": {
+        "ebook1": {
+          "title": "eBook 1 - Orientações de Indexação",
+          "fullContent": "Neste eBook centralizamos todas as orientações de indexação para o MEDLINE/PubMed + BÔNUS (formulário de rascunho preencher antes da aplicação).\n\nÉ um guia que não garante indexação da revista, mas auxilia o editor científico e equipe editorial a ter uma visão do processo, compreendendo a logística de indexação do portal, para identificar se já cumpre os critérios para indexação no MEDLINE/PubMed."
+        },
+        "ebook2": {
+          "title": "eBook 2 - Orientações para Aplicação",
+          "fullContent": "Tenha em mãos todas as informações para aplicação e segurança na compreensão das etapas de avaliação do portal para indexação no MEDLINE/PubMed + BÔNUS (formulário de rascunho preencher antes da aplicação).\n\nÉ um guia que não garante indexação da revista, mas auxilia o editor científico e equipe editorial a ter uma visão do processo, permitindo que no momento da aplicação tenha maior segurança e tranquilidade com os dados já analisados."
+        },
+        "package": {
+          "title": "Pacote eBook 1 + eBook 2 + 2 Bônus",
+          "fullContent": "Dois eBooks criados para auxiliar editores científicos e equipe editorial de uma revista, a entender mais sobre o portal MEDLINE/PubMed quais são os critérios, etapas, requisitos e muitos para conquistar a tão sonhada indexação do periódico."
+        }
+      },
+      "cta": {
+        "title": "Em breve, mais eBooks disponíveis para você!",
+        "description": "Continuamos desenvolvendo novos materiais para apoiar editores científicos em seus processos de indexação."
+      }
+    },
+    "mainDatabases": {
+      "hero": {
+        "title": "Principais bases"
+      },
+      "title": "Experiência há +17 anos em marcação XML para diversas bases indexadoras.",
+      "databases": {
+        "accessButton": "Acessar",
+        "scielo": {
+          "fullContent": "O SciELO é uma biblioteca para a publicação eletrônica de periódicos científicos em sua versão completa. Aceita o envio de arquivos exclusivamente em formato PDF + XML-JATS.\n\nA GN1 é Certificada pelo SciELO Brasil há +17 anos e temos ampla experiência em todos os aspectos da marcação em XML-JATS."
+        },
+        "pmc": {
+          "fullContent": "PubMed Central® (PMC) garante acesso ao texto completo gratuito de literatura de revistas biomédicas e de ciências biológicas da U.S. National Institutes of Health's National Library of Medicine (NIH/NLM).\n\nSomos certificados pelo PubMed Central (PMC) há +13 anos e acompanhamos todas as atualizações do portal quanto às marcações XML: metatags, diretrizes e políticas de envio."
+        },
+        "pubmed": {
+          "fullContent": "PubMed® contempla mais de 37 milhões de citações de literatura biomédica do MEDLINE, com revistas de ciências biológicas e livros online. Caso a revista esteja indexada no PMC, podem incluir links do texto completo vinculados à página.\n\nDesde 2007 a GN1 segue atuante na produção XML para PubMed/MEDLINE, com uma equipe 100% treinada para atender essa demanda."
+        },
+        "redalyc": {
+          "fullContent": "A Redalyc (Red de Revistas Científicas de América Latina y el Caribe, España y Portugal) é um grupo de pesquisa multidisciplinar em comunicação e divulgação da ciência. Seu sistema de indexação integra periódicos científicos e editoriais de alta qualidade da região em seu índice, conservando princípios do acesso aberto.\n\nEm 2011 iniciamos os trabalhos em marcação para a base Redalyc e desde então nos mantemos atuantes e atendendo dezenas de revistas mensalmente."
+        },
+        "doaj": {
+          "fullContent": "DOAJ (Directory of Open Access Journals) é um índice único e extenso de diversos periódicos de acesso aberto mundialmente.\n\nSomos capacitados para inserção de novos artigos no diretório DOAJ há +13 anos."
+        },
+        "ebsco": {
+          "fullContent": "Considerado um portal voltado a periódicos de acesso aberto, faz referência aos principais índices de citação como Web of Science e Scopus e índices de assuntos APA PsyInfo e SciFinder.\n\nA Equipe GN1 envia artigos marcados em XML EBSCO desde 2011 e poderá auxiliar você editor a manter sua revista atualizada na base."
+        },
+        "pepsic": {
+          "fullContent": "A rede latinoamericana de Periódicos de Psicologia (PePsic) publica revistas dentro do tema da Psicologia, sendo uma conexão valiosa entre a pesquisa acadêmica e a prática profissional.\n\nAté 2023 a PePsic recebia artigos em formato HTML, a partir de 2024 passou a receber em formato XML-JATS (equivalente ao SciELO). A GN1 também envia artigos para esse portal com eficiência e qualidade."
+        },
+        "educ": {
+          "fullContent": "Plataforma que utiliza a metodologia SciELO, proporciona acesso amplo a revistas científicas na área da educação.\n\nA GN1 domina a produção de XML Educ@ e envio adequado desde 2011."
+        },
+        "lilacs": {
+          "fullContent": "Considerada a mais importante base de dados especializada na área da saúde com publicações de 26 países da América Latina e do Caribe, com acesso aberto a conteúdo científico e técnico.\n\nEnviamos artigos para a LILACS mensalmente e podemos auxiliar você editor a manter o seu periódico atualizado nesta base tão importante para a saúde."
+        },
+        "scopus": {
+          "fullContent": "Maior base de dados de resumos e citações científicas revisada por pares, com mais de 35 mil revistas, mensura a qualidade através de: H-Index, CiteScore, SJR e SNIP."
+        },
+        "wos": {
+          "fullContent": "Plataforma online que apresenta informações bibliográficas e citações da produção científica; e é a partir da WoS que calcula-se o fato de impacto de um periódico."
+        }
+      }
+    }
+  },
+  "AboutPages": {
+    "ourHistory": {
+      "hero": {
+        "title": "Nossa história"
+      },
+      "title": "Uma breve história no tempo, uma longa trajetória de sucesso.",
+      "timeline": {
+        "1999": {
+          "title": "Fundação",
+          "description": "A GN1 inicia suas atividades na cidade de São João da Boa Vista, interior do estado de São Paulo, criando pequenos sistemas personalizados e sites para diversas empresas."
+        },
+        "2001": {
+          "title": "Foco na área médica",
+          "description": "Estrategicamente, em 2001 dá um grande passo, focando na área médica, fechando um contrato com importante associação médica de otorrinolaringologia. Em pouco tempo o portfólio se expande e novas áreas como pneumologia, pediatria, hematologia e cardiologia são acrescentadas, muitas outras viriam."
+        },
+        "2003": {
+          "title": "Sistemas de gestão",
+          "description": "Com atuação constante na área científica, a GN1 apresenta três soluções inovadoras, o SGP, focado no gerenciamento peer-review de artigos científicos, o SGA, sistema em nuvem direcionado para a gestão de associados de diversas associações médicas e o SCC, plataforma responsável pelo controle de inscrições de cursos e congressos."
+        },
+        "2007": {
+          "title": "Consolidação no mercado editorial",
+          "description": "Sempre com a visão à frente, consolidou sua atuação no mercado editorial científico, sendo certificada pelo SciELO Brasil na conversão e marcação em HTML e XML. Com toda a qualidade apresentada na produção de XML para o SciELO Brasil, as opções se expandem e novos serviços são adicionados ao portfólio: atribuição de DOI com prefixo próprio no CrossRef, digitalização de acervos, diagramação, editoração, revisão e normalização de artigos, bem como a produção de XML Medline."
+        },
+        "2009": {
+          "title": "Referência nacional",
+          "description": "A GN1 passa a ser referência nacional na produção editorial científica, tendo sido muito elogiada por vários editores científicos brasileiros, destaque para o Prof. Dr. Domingo Braile (in memoriam), grande amigo e incentivador de nosso trabalho."
+        },
+        "2011": {
+          "title": "Produção XML",
+          "description": "A GN1 direciona seu olhar para o mercado externo e inicia a produção de XML na metodologia PMC - PubMed Central dos EUA. Com isso nos capacitamos para oferecer serviços em outras bases de indexação, DOAJ e Redalyc. Atualmente produzimos o XML PMC e XML SciELO para mais de 80 revistas científicas, em 5 países; e, ainda, enviamos arquivos produzidos para Scopus, EBSCO, Educ@, entre outros."
+        },
+        "2012": {
+          "title": "Desenvolvimento mobile",
+          "description": "Com forte investimento em P&D e infraestrutura, capacitamos nosso time para atender um novo mercado que crescia, o mobile. Em 2012, passamos a desenvolver aplicativos Apple e Google para revistas médicas, disponibilizando o conteúdo completo dos artigos em HTML, PDF e ePub."
+        },
+        "2014": {
+          "title": "Reestruturação",
+          "description": "Os desafios aumentam diante dos avanços tecnológicos. Uma reestruturação interna é realizada para atualização dos sistemas e criação de novos produtos e serviços. Formamos parceria com editores para a total atualização do sistema de gestão de revistas científicas."
+        },
+        "2017": {
+          "title": "Lançamento GnPapers",
+          "description": "Novo sistema muito semelhante ao ScholarOne, oficialmente apresentado no congresso da ABEC - Associação Brasileira de Editores Científicos, na cidade de Curitiba/PR, pouco tempo depois o GnPapers foi certificado pelo SciELO Brasil, que passa a oferecer o GnPapers como opção totalmente nacional de ferramenta de gestão de artigos científicos."
+        },
+        "2024": {
+          "title": "Internacionalização",
+          "description": "A GN1 é uma Editora com forte atuação no mercado científico e outros também, na nossa busca pela excelência, temos investido muito na internacionalização de nossos serviços, qualificação de nosso time, e reforçado nossos padrões de qualidade, para que todos nossos clientes colham esses frutos."
+        },
+        "2025": {
+          "title": "Chegamos no Texas!",
+          "description": "Escolhemos instalar nossa sede internacional nos Estados Unidos na cidade de Frisco que fica na região de DFW Dallas Fort Worth no Texas, pois é uma cidade estratégica com voos para qualquer lugar dos Estados Unidos e do mundo, unindo o país de costa a costa.\n\nImensas corporações como Tesla, Apple e tantas outras também estão se movendo para o Texas. A GN1 com grande expertise na produção de revistas científicas está agora mergulhada no mercado científico internacional da mais alta qualidade e vanguarda, pois o Texas, em especial as cidades de Houston, Dallas e Austin, possuem os melhores hospitais e médicos, além de muitas outras áreas tecnológicas reconhecidas globalmente.\n\nAcreditamos que poderemos contribuir e aprender muito estando ao lado dos mais importantes centros tecnológicos e de saúde localizados nos EUA. Nossa equipe está pronta para atender todos aqueles que quiserem divulgar suas descobertas e pesquisas científicas, oferecendo altíssima qualidade de forma atrativa em todas as mídias, com toda transparência de nossos ótimos relacionamentos construídos em mais de 24 anos de história com nossos clientes."
+        },
+        "conclusion": {
+          "title": "GN1, um time, muitas vitórias!",
+          "description": "São mais de 24 anos de muito trabalho com fé em Deus, reconhecida pela confiança dos parceiros na transparência e qualidade do nosso trabalho. Nossa história é viva e enriquecedora, continuaremos inovando e buscando soluções para o progresso da ciência."
+        }
+      }
+    },
+    "missionVisionValues": {
+      "hero": {
+        "title": "Missão, visão e valores"
+      },
+      "home": {
+        "subtitle": "Nossos valores",
+        "title": "Constantemente criamos soluções inovadoras para a",
+        "highlightText": "evolução do conhecimento."
+      },
+      "mission": {
+        "title": "Missão",
+        "description": "A GN1 é uma empresa que constantemente cria soluções inovadoras para a evolução do conhecimento e progresso da produção científica, desde a pesquisa, passando pela construção dos artigos, divulgação desse conhecimento, até a indexação nos principais portais. Nós buscamos o reconhecimento internacional dos pesquisadores e profissionais vinculados à ciência em sua forma mais autêntica e fundamentada."
+      },
+      "vision": {
+        "title": "Visão",
+        "description": "Democratizar o acesso ao mundo editorial aos autores de todas as áreas do conhecimento, através de ferramentas que serão a ponte entre os profissionais do meio científico, a ciência de vanguarda desprovida de conflitos de interesse e as pessoas que passarão a ter muito mais qualidade de vida."
+      },
+      "values": {
+        "title": "Valores",
+        "items": {
+          "excellence": {
+            "title": "Excelência",
+            "description": "Comprometimento com a mais alta qualidade, buscando a melhoria constante, se houver erros, aprenderemos com eles, de forma que possamos contribuir com o avanço da ciência para o bem da humanidade."
+          },
+          "transparency": {
+            "title": "Transparência e honestidade",
+            "description": "Primamos pela lisura e integridade dos processos compartilhados com os nossos clientes, para que se sintam intimamente conectados às variadas etapas do trabalho."
+          },
+          "commitment": {
+            "title": "Compromisso com os resultados",
+            "description": "Ser parte da solução dos problemas para o nosso cliente, fortalecendo uma parceria na busca pelo reconhecimento científico com qualidade internacional."
+          },
+          "punctuality": {
+            "title": "Pontualidade",
+            "description": "Buscamos ajustar prazos e expectativas com eficiência e equilíbrio, dentro de um cronograma possível à demanda de cada serviço."
+          },
+          "humanized": {
+            "title": "Atendimento humanizado",
+            "description": "Valorização dos nossos clientes através de um atendimento individualizado e aberto a uma comunicação direta."
+          },
+          "membership": {
+            "title": "Pertencimento",
+            "description": "Acreditamos que uma empresa de sucesso se constrói com o talento dos nossos colaboradores, impactando positivamente suas ações diárias e pessoas à sua volta."
+          },
+          "consistency": {
+            "title": "Consistência e foco",
+            "description": "Temos a capacidade de dar continuidade às atividades com assiduidade, estamos 100% envolvidos com um planejamento definido para cada serviço. A nossa meta é solucionar os problemas dos nossos clientes."
+          },
+          "analytical": {
+            "title": "Atitude analítica",
+            "description": "Padrão criterioso de avaliação assertiva graças à habilidade técnica dos nossos colaboradores em identificar falhas e inconsistências na linha de trabalho e materiais produzidos."
+          }
+        }
+      }
+    },
+    "ourClients": {
+      "hero": {
+        "title": "Nossos clientes"
+      },
+      "title": "24 anos de história contribuindo para evolução da ciência."
+    },
+    "team": {
+      "hero": {
+        "title": "Equipe"
+      },
+      "title": "Nos orgulhamos de ter uma equipe de especialistas altamente qualificados.",
+      "positions": {
+        "founderCeo": "Fundador & CEO",
+        "coo": "COO",
+        "executiveEditor": "Editora Executiva",
+        "developer": "Desenvolvedor",
+        "editor": "Editora",
+        "development": "Desenvolvimento",
+        "commercial": "Comercial",
+        "financial": "Financeiro",
+        "secretary": "Secretaria"
+      }
+    },
+    "privacy": {
+      "hero": {
+        "title": "Política de privacidade"
+      },
+      "introduction": {
+        "title": "Apresentação",
+        "description1": "A GN1 Tecnologia Ltda desenvolve sistemas, aplicativos e realiza a produção editorial na área científica, oferecendo produtos e serviços que possibilitam a perfeita gestão de associações médicas e outras, bem como a gestão e produção de seus periódicos científicos.",
+        "description2": "Com base na legislação vigente (Leis nº 12.965/2014 e 13.709/2018) e nos melhores meios que possam garantir a segurança e os direitos fundamentais dos usuários dos nossos sistemas, aplicativos e visitantes do nosso website, a GN1 estabelece a presente Política de Privacidade com a finalidade de proteger as informações pessoais, intimidade, honra e imagem.",
+        "description3": "Ao utilizar nossos produtos e serviços, entendemos existir uma relação de confiança, pois nossas plataformas serão utilizadas para, dentre tantas outras funcionalidades, alimentar diferentes bancos de dados.",
+        "description4": "Agradecemos esta confiança e retribuímos os cuidados oferecendo aos nossos clientes e visitantes o máximo de segurança e seriedade no tratamento e armazenamento de seus dados."
+      },
+      "dataCollected": {
+        "title": "Dados pessoais coletados",
+        "description1": "A GN1 coleta apenas os dados suficientes para prestar os serviços contratados nas diferentes áreas de atuação, como gestão de associações médicas e científicas através de seus sistemas e aplicativos, submissão online de artigos científicos e criação de websites. Tais dados serão coletados mediante o consentimento do seu titular e terão como finalidade única a prestação dos serviços contratados.",
+        "description2": "Também serão coletados cookies, IP (Endereço de Protocolo da Internet) e outros dados de navegação que são importantes meios de tornar a navegação de um website mais prática e interessante, no entanto, tais cookies podem ser bloqueados ou configurados a qualquer momento pelo usuário em seu navegador, conforme o seu interesse.",
+        "description3": "Dados pessoais sensíveis (aqueles referentes a origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico) e dados pessoais de crianças e adolescentes não são coletados pela GN1, pois não existem interesses e razões para armazená-los em nossa atividade."
+      },
+      "dataProcessing": {
+        "title": "Utilização dos dados pessoais coletados - Tratamento",
+        "description1": "O tratamento dos dados pessoais coletados é realizado com máxima segurança por equipe capacitada e consciente da importância do sigilo que os dados pessoais merecem.",
+        "description2": "A justificativa para a coleta dos dados pessoais é a utilização restrita de fornecer os serviços contratados e o cumprimento de obrigações legais pela GN1.",
+        "description3": "Após o término do tratamento de dados, com a finalidade acima apontada, os dados pessoais são eliminados dos servidores e bancos de dados da GN1. Serão, no entanto, arquivados para cumprimento de obrigação legal ou uso exclusivo do controlador, de forma anonimizada, apenas os dados que tenham relevância para tais necessidades."
+      },
+      "dataSharing": {
+        "title": "Compartilhamento dos dados pessoais com terceiros",
+        "description1": "A GN1 não compartilha dados pessoais com pessoas, empresas ou terceiros que não estejam em conformidade com a finalidade consentida pelo seu titular.",
+        "description2": "O compartilhamento dos dados pessoais somente ocorrerá para a prestação dos serviços contratados quando houverem terceiros habilitados na prestação dos serviços, para cumprimento de obrigação legal e para proteção do crédito, obedecendo a rigorosos protocolos de segurança em sua transmissão e criteriosa escolha dos terceiros e profissionais habilitados a prestarem tais serviços."
+      },
+      "security": {
+        "title": "Segurança",
+        "description1": "A GN1 utiliza os mais avançados e eficazes recursos e técnicas de segurança de rede, de transmissão e de armazenamento de dados.",
+        "description2": "Seus sistemas, aplicativos e websites também oferecem aos seus clientes e visitantes o que há de melhor em segurança e desenvolvimento usando a privacidade na modelagem dos nossos produtos por padrão, além de criptografia na transferência de dados entre cliente e servidor, hospedagem dos serviços em empresas consagradas internacionalmente e práticas de segurança em todos os estágios de desenvolvimento desde a concepção até a publicação.",
+        "description3": "É importante que ao utilizar nossos sistemas, aplicativos e websites o cliente ou visitante o faça com responsabilidade e em equipamentos seguros, aumentando ainda mais a segurança pretendida, no entanto, ressaltamos que a tecnologia da informação tem o desafio constante de evitar e impedir a ação de invasores e criminosos que, eventualmente, pode ocorrer."
+      },
+      "userRights": {
+        "title": "Dos direitos do titular",
+        "description1": "O titular dos dados pessoais, ou seu representante legal, tem direitos que poderão ser facilmente exercidos a qualquer momento, de forma gratuita, dentro dos nossos websites, sistemas e aplicativos ou mediante o preenchimento de formulários específicos para cada direito (Conforme artigo 18 da Lei 13.709/2018).",
+        "confirmation": {
+          "title": "CONFIRMAÇÃO",
+          "description": "da existência de tratamento de dados pessoais e acesso a eles poderá ser obtida mediante o preenchimento do formulário abaixo."
+        },
+        "alteration": {
+          "title": "ALTERAÇÃO",
+          "description": "e correção dos dados pessoais coletados quando houver dados incompletos, inexatos ou desatualizados poderá ser requerida mediante o preenchimento do formulário abaixo."
+        },
+        "deletion": {
+          "title": "ELIMINAÇÃO",
+          "description": "dos dados pessoais coletados pode ser requerida mediante o preenchimento do formulário abaixo."
+        },
+        "portability": {
+          "title": "PORTABILIDADE",
+          "description": "dos dados pessoais a outro fornecedor de serviços poderá ocorrer mediante o preenchimento do formulário abaixo."
+        },
+        "consent": {
+          "title": "CONSENTIMENTO",
+          "description": "para coleta e tratamento dos dados pessoais anteriormente fornecido à GN1 poderá ser revogado caso não haja mais interesse do titular na manutenção deste consentimento mediante o preenchimento do formulário abaixo."
+        }
+      },
+      "contact": {
+        "title": "Fale conosco",
+        "description1": "Queremos que os usuários de nossos sistemas e aplicativos e os visitantes do nosso website tenham a melhor experiência conosco, por isto, estamos à disposição para resolver qualquer questão que surgir.",
+        "description2": "Havendo qualquer suspeita de ato contrário a esta política de privacidade ou à legislação vigente, o titular de dados pessoais poderá denunciar o ato suspeito diretamente à GN1 através do seguinte e-mail: privacidade@gn1.com.br ou realizando o preenchimento do formulário abaixo."
+      }
+    },
+    "supportChannels": {
+      "hero": {
+        "title": "Contato"
+      },
+      "title": "Canais de atendimento",
+      "support": {
+        "title": "Suporte",
+        "description": "Precisando de ajuda com sites, aplicativos ou sistemas? Preencha o formulário para abrir um ticket.",
+        "button": "Solicitar suporte",
+        "url": "https://suporte.gn1.com.br/"
+      },
+      "ombudsman": {
+        "title": "Ouvidoria",
+        "description": "Possui alguma sugestão ou reclamação? Fale com nossa ouvidoria e nos ajude a promover melhorias em produtos e serviços.",
+        "button": "ouvidoria@gn1.com.br",
+        "email": "ouvidoria@gn1.com.br"
+      },
+      "humanResources": {
+        "title": "Recursos humanos",
+        "description": "Deseja fazer parte da nossa equipe? Envie seu currículo.",
+        "button": "rh@gn1.com.br",
+        "email": "rh@gn1.com.br"
+      }
+    }
+  },
+  "Blog": {
+    "breadcrumb": {
+      "home": "Início",
+      "blog": "Blog"
+    },
+    "title": "Blog GN1",
+    "subtitle": "Insights, novidades e conhecimento sobre soluções editoriais e tecnologia",
+    "featured": {
+      "title": "Destaque"
+    },
+    "recent": {
+      "subtitle": "Blog",
+      "title": "Publicações recentes"
+    },
+    "categories": {
+      "title": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada."
+    },
+    "buttons": {
+      "viewAll": "Ver Todos os Posts",
+      "loadMore": "Carregar Mais",
+      "loading": "Carregando...",
+      "readMore": "Leia mais"
+    },
+    "messages": {
+      "noPosts": "Nenhuma publicação encontrada.",
+      "noPostsInCategory": "Nenhuma publicação encontrada nesta categoria.",
+      "errorLoading": "Não foi possível carregar os posts. Tente novamente mais tarde."
+    },
+    "archive": {
+      "title": "Todos os Posts",
+      "subtitle": "Explore todos os nossos artigos e insights"
+    },
+    "error": {
+      "description": "Tente recarregar a página ou volte mais tarde.",
+      "backToHome": "Voltar ao início"
+    },
+    "fallback": {
+      "title": "Post do Blog",
+      "subtitle": "Post do Blog"
+    },
+    "tags": {
+      "more": "mais"
+    },
+    "pagination": {
+      "showing": "Mostrando {displayed} de {total} posts"
+    }
+  },
+  "BlogPost": {
+    "breadcrumb": {
+      "home": "Início",
+      "blog": "Blog"
+    },
+    "featured": {
+      "badge": "Destaque"
+    },
+    "share": {
+      "title": "Compartilhar Post",
+      "facebook": "Compartilhar no Facebook",
+      "twitter": "Compartilhar no Twitter",
+      "linkedin": "Compartilhar no LinkedIn"
+    },
+    "related": {
+      "title": "Leia Também",
+      "noPosts": {
+        "title": "Nenhum post relacionado encontrado",
+        "description": "Nenhum post relacionado encontrado no momento."
+      }
+    },
+    "notFound": {
+      "title": "Post Não Encontrado",
+      "description": "O post solicitado não está disponível ou foi removido.",
+      "backToBlog": "Voltar para o Blog",
+      "backToHome": "Voltar ao início"
+    }
+  },
+  "BlogCategory": {
+    "breadcrumb": {
+      "home": "Início",
+      "blog": "Blog",
+      "categories": "Categorias"
+    },
+    "title": "Categoria: {category}",
+    "subtitle": "Explore todos os posts sobre {category}",
+    "noPosts": {
+      "title": "Nenhum post encontrado",
+      "description": "Não há posts publicados nesta categoria ainda."
+    },
+    "notFound": {
+      "title": "Categoria Não Encontrada",
+      "description": "A categoria solicitada não está disponível.",
+      "backToBlog": "Voltar para o Blog"
+    }
+  },
+  "Common": {
+    "readMore": "Ver mais",
+    "learnMore": "Saiba mais",
+    "getInTouch": "Entre em contato",
+    "cta": {
+      "quote": "Solicitar orçamento",
+      "whatsapp": "Conversar via WhatsApp"
+    }
+  }
+}
